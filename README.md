@@ -1,12 +1,23 @@
+Hey there, I'm Maaz Ansari
+📍 Pune, Maharashtra, India
+📞 9511670380
+📧 maaz.ansari211@vit.edu
 
+🎓 I’m pursuing B.Tech in Electronics and Telecommunication at VIT Pune, graduating in 2025
 
-# 👋 Maaz Ansari
+💻 A passionate software engineer with expertise in Full Stack Development (MERN), Blockchain, and Data Analytics
 
-**Electronics and Telecommunications Undergraduate at VIT Pune**  
-🔧 Full Stack Developer | 🧠 AI & Blockchain Enthusiast | 🌐 Open Source Contributor  
-📫 [LinkedIn](https://www.linkedin.com/in/maaz-ansari-06193a231) | 📂 [GitHub](https://github.com/AnsariTech-25667)
+🛠️ Proficient in C, C++, Python, SQL, JavaScript, HTML/CSS, Flask, JSP, REST APIs, and Smart Contract Development using Solidity & Hardhat
 
----
+📊 Experienced in Power BI, Tableau, Pandas, NumPy, and R for data visualization and analytics
+
+🔐 Built secure systems with JWT, RBAC, and multithreading — optimized APIs and boosted performance
+
+📚 Published: Precision Robotics Arm System (IJISAE - Scopus Indexed)
+
+💬 Ask me about Flutter, MERN, or Smart Contracts!
+
+🔗 GitHub • LinkedIn
 
 ## 🚀 Featured Projects
 
