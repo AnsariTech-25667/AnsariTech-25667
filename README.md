@@ -1,128 +1,149 @@
-<h1 align="center">Hi 👋, I'm Maaz Ansari</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Blockchain Explorer | Data-Driven Innovator</h3>
+Thanks for the detailed input! Based on all the projects you've listed, your GitHub username (AnsariTech-25667), and the project titles, I’ve created a complete and formatted README.md section featuring:
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Dev Animation" />
-</p>
+- Proper hyperlinks to each GitHub repository.
+- Detailed descriptions.
+- Integration of your LinkedIn, HackerRank, and email.
+- Placeholder for an image preview (which you can replace later with actual images from your repositories).
 
----
-
-### 🚀 About Me
-
-- 🎓 Electronics & Telecommunication student at **Vishwakarma Institute of Technology**, Pune  
-- 🛠️ Passionate about building AI-integrated, scalable, and secure full-stack systems  
-- 🧠 Focused on AI/ML, Blockchain, Secure Cloud Computing, and Data Analysis  
-- 💼 Currently open to **internships** and **research projects**  
+Here is a full markdown version for your portfolio README:
 
 ---
 
-### 🧰 Tech Stack
+# 💼 Maaz Ansari — Full Stack Developer | AI & Blockchain Enthusiast
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+📧 Email: [maaz.ansari211@vit.edu](mailto:maaz.ansari211@vit.edu)  
+🔗 LinkedIn: [linkedin.com/in/maaz-ansari-06193a231](https://www.linkedin.com/in/maaz-ansari-06193a231)  
+👨‍💻 HackerRank: [hackerrank.com/maazansari25667](https://www.hackerrank.com/profile/maazansari25667)  
+📂 GitHub: [github.com/AnsariTech-25667](https://github.com/AnsariTech-25667)
 
 ---
 
-### 💼 Featured Projects
+## 🚀 Featured Projects
 
-#### 🔹 [AI Finance Manager](https://github.com/AnsariTech-25667/ai-finance-platform-main)
-> **Jan 2025 – Apr 2025**  
-AI-powered platform for automated financial tracking:
-- Smart categorization of income & expenses  
-- OCR-based receipt scanning (90%+ accuracy)  
-- Cron job–based recurring transactions  
-- Budget alerts & GPT-powered monthly insights  
-- Dynamic charts for 7 days, 1M, 6M trends  
-- **Stack:** Next.js, Tailwind CSS, MongoDB, Node.js, Express, Prisma, GPT API
+### 🔹 [AI Finance Manager: Intelligent Financial Tracking & Analysis](https://github.com/AnsariTech-25667/ai-finance-platform-main)
+Smart personal finance platform using:
+- 🧠 AI-driven categorization
+- 📄 OCR-based receipt scanning
+- 🔁 Cron jobs for recurring transactions
+- 💸 Budget alerts and GPT-powered insights  
+Tech Stack: Next.js · Tailwind CSS · Node.js · MongoDB · Prisma ORM
 
 ---
 
-#### 🔹 [IntelliScan](https://github.com/AnsariTech-25667/IntelliScan-AWS-Rekognition)
-> **Jul 2024 – Dec 2024**  
-AI-powered face detection & image retrieval using AWS:
-- AWS Rekognition with Flask & Boto3  
-- Image search improved by 80% efficiency  
-- Secure cloud storage via AWS S3  
-- **Stack:** Python, Flask, AWS S3, Rekognition, Boto3
+### 🔹 [SherSchedule: AI-Powered Smart Booking Platform](https://github.com/AnsariTech-25667/SherSchedule-AI-Powered-Smart-Booking-Platform-)
+Google Calendar–integrated meeting scheduling platform with:
+- 🔐 Clerk Auth
+- 📅 Calendar syncing
+- ✨ Custom event pages  
+Tech Stack: Next.js · Tailwind CSS · Neon DB · Clerk
 
 ---
 
-#### 🔹 [YOLOv5 Vehicle Distance Estimation](#)
-> **Aug 2024 – Nov 2024**  
-- Real-time object detection using YOLOv5  
-- Distance estimation trained on KITTI & FLIR datasets  
-- Deployable on edge devices  
-- **Stack:** YOLOv5, PyTorch, OpenCV, Deep Learning  
+### 🔹 [AI-Powered Vehicle Distance Estimation & Object Detection](https://github.com/AnsariTech-25667/AI-Powered-Vehicle-Distance-Estimation-Object-Detection-Using-YOLOv5-Deep-Learning)
+Vehicle distance detection using:
+- 🧠 YOLOv5 + PyTorch
+- 🌫 Trained on KITTI & FLIR datasets
+- ⚡️ Real-time edge deployment  
+Skills: Deep Learning · OpenCV · Object Detection
 
 ---
 
-#### 🔹 [Sher – Smart Call Booking](https://github.com/AnsariTech-25667/SherSchedule-AI-Powered-Smart-Booking-Platform)
-> **Jun 2024 – Nov 2024**  
-Full-stack calendar booking platform:
-- Google Auth & Calendar Integration (auto Meet links)  
-- Custom event pages & notifications  
-- **Stack:** Next.js, Tailwind CSS, ShadCN UI, Neon DB, Clerk, Google API  
+### 🔹 [A Three-Layer Privacy-Preserving Cloud Storage](https://github.com/AnsariTech-25667/A-Three-Layer-Privacy-Preserving-Cloud-Storage)
+Cloud system using:
+- 🔐 Caesar Cipher encryption
+- 🔄 FTP-based file transfers
+- 🗃 MySQL metadata storage  
+Skills: Java · JSP · FTP · MySQL · Encryption
 
 ---
 
-#### 🔹 [Three-Layer Privacy-Preserving Cloud Storage](#)
-> **Feb 2024 – Apr 2024**  
-- Caesar Cipher encryption + FTP file upload + MySQL metadata  
-- File integrity validation and secure block-wise storage  
-- **Stack:** Java, JSP, FTP, MySQL
+### 🔹 [SecureTimeLock: Ethereum Smart Contract for Secure Fund Locking](https://github.com/AnsariTech-25667/SecureTimeLock-Ethereum-Smart-Contract)
+Blockchain-based time-locked Ethereum contract:
+- 🔒 Time-based fund locking
+- ⚙️ Built with Solidity, Hardhat
+- ✅ Mocha/Chai for testing  
+Skills: Solidity · Ethereum · JavaScript · Hardhat
 
 ---
 
-#### 🔹 [SecureTimeLock – Ethereum Smart Contract](#)
-> **Jan 2024 – Mar 2024**  
-- Time-locked secure fund contract  
-- Built with Solidity, tested via Hardhat  
-- **Stack:** Solidity, Hardhat, JavaScript, Mocha, Chai
+### 🔹 [Vinsta — MERN Social Media Platform](https://github.com/AnsariTech-25667/Vinsta--Social-media-app-using-MERN)
+Instagram/Facebook–like social platform:
+- 👤 User auth, profiles, feeds
+- 📸 Cloudinary media handling
+- 💬 Real-time interactions  
+Tech Stack: MongoDB · Express · React · Node.js
 
 ---
 
-#### 🔹 [Vinsta – MERN Social Media App](#)
-> **Jan 2024 – Mar 2024**  
-Instagram-inspired MERN platform with:
-- Real-time feed, likes, follows, Cloudinary media uploads  
-- Auth, post CRUD, user profile system  
-- **Stack:** MongoDB, Express.js, React, Node.js, Cloudinary
+### 🔹 [IntelliScan: AI-Powered Image Retrieval with AWS](https://github.com/AnsariTech-25667/IntelliScan-AI-Image-Retrieval-Face-Detection)
+Image search app using:
+- 🔍 AWS Rekognition
+- 🔐 Flask + Boto3
+- 🧰 RESTful API integration  
+Skills: AWS · Flask · Python · Cloud Security
 
 ---
 
-#### 🔹 [Precision Robotics Arm System (IJISAE Publication)](#)
-> **Jan 2024 – Mar 2024**  
-- YOLOv4 + Raspberry Pi + Arduino for AI-based automation  
-- 91.78% accuracy, 120ms response time  
-- MQTT-based IoT control  
-- **Stack:** Python, YOLOv4, Embedded C++, MQTT, Raspberry Pi
+### 🔹 [AI Robotic Arm with YOLOv4 & MQTT](https://github.com/AnsariTech-25667/AI-Robotic-Arm-Vision-Control)
+Dual-microcontroller robotic system:
+- 👁 YOLOv4 + RPi + Arduino
+- 🎮 Precision inverse kinematics
+- 🌐 IoT MQTT monitoring  
+Published in IJISAE Scopus Journal
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maazansari&show_icons=true&theme=radical" alt="Maaz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazansari&theme=radical" width="48%" />
-</p>
+### 🔹 [SafeBite: Food Allergen Scanner App](https://github.com/AnsariTech-25667/Safe-Bite_Food-Allergen-Scanner-Application.)
+Mobile app for scanning food labels and detecting allergens using OCR and an AI-driven database.
 
 ---
 
-### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maaz-ansari-06193a231)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/maazansari25667)  
-📧 Email: [maaz.ansari211@vit.edu](mailto:maaz.ansari211@vit.edu)
+### 🔹 [Multithreaded Web Crawler](https://github.com/AnsariTech-25667/Multithreaded-Web-Crawler)
+Efficient web crawler using:
+- ⚙️ Thread pools
+- 📄 HTML parsing
+- 🛡 Synchronization for safe queueing  
+Language: Python
 
 ---
 
-### 💡 Fun Fact
+### 🔹 [Resume Parser Project](https://github.com/AnsariTech-25667/resume-parser-project)
+Automated resume parser using Python to extract and structure resume data with keyword matching and PDF parsing.
 
-> I'm always chasing the intersection of AI, automation, and real-world impact.  
-> Whether it's secure fund locking or robotics precision, I build for **intelligence with purpose.** 💡
+---
+
+### 🔹 [Admin Dashboard App](https://github.com/AnsariTech-25667/admin-dashboard-app)
+Responsive dashboard for admin control and analytics built with JavaScript and modern UI libraries.
+
+---
+
+### 🔹 [ScaleX Media Frontend Assignment](https://github.com/AnsariTech-25667/ScaleX_Media_Assignment_project)
+Frontend technical assessment featuring responsive layouts, state management, and component-based architecture.
+
+---
+
+### 🔹 [HealTether_2_easy_codes](https://github.com/AnsariTech-25667/HealTether_2_easy_codes)
+Healthtech-related sample apps for mobile and web deployment.
+
+---
+
+### 🔹 [My Resume](https://github.com/AnsariTech-25667/My_Resume)
+View my academic and professional resume as a Jupyter notebook.
+
+---
+
+## 🖼 Preview
+
+You can include project previews like this (example):
+
+```md
+![AI Finance Manager Screenshot](https://github.com/AnsariTech-25667/ai-finance-platform-main/raw/main/public/preview.png)
+```
+
+> Replace `preview.png` with actual screenshots from your projects' public folders.
+
+---
+
+Let me know if you want a downloadable version (README.md) or a version formatted for your personal portfolio website!
+
+I can also help you generate GitHub-level badges, deploy previews, or generate a personal site using this content.
