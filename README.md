@@ -1,6 +1,7 @@
-Hey there, I'm Maaz Ansari
-📍 Pune, Maharashtra, India
-📞 9511670380
+## Hey there, I'm Maaz Ansari
+
+📍 Pune, Maharashtra, India  
+📞 9511670380  
 📧 maaz.ansari211@vit.edu
 
 🎓 I’m pursuing B.Tech in Electronics and Telecommunication at VIT Pune, graduating in 2025
@@ -17,54 +18,76 @@ Hey there, I'm Maaz Ansari
 
 💬 Ask me about Flutter, MERN, or Smart Contracts!
 
-🔗 GitHub • LinkedIn
+🔗 [GitHub](https://github.com/maazansari) • [LinkedIn](https://www.linkedin.com/in/maazansari)
+
+---
 
 ## 🚀 Featured Projects
 
-### 🔹 [SherSchedule – AI-Powered Smart Booking Platform](https://github.com/AnsariTech-25667/SherSchedule-AI-Powered-Smart-Booking-Platform-)
-A smart calendar and scheduling assistant powered by AI. Helps users automate bookings, manage availability, and streamline their schedules efficiently.
+### 🔹 SherSchedule – AI-Powered Smart Booking Platform  
+![SherSchedule](https://github.com/maazansari/SherSchedule/assets/your_image_hash_or_path_here)  
+A smart calendar and scheduling assistant powered by AI. Helps users automate bookings, manage availability, and streamline their schedules efficiently.  
+[🔗 GitHub Repo](https://github.com/maazansari/SherSchedule)
 
 ---
 
-### 🔹 [AI Finance Platform – Intelligent Financial Tracker](https://github.com/AnsariTech-25667/ai-finance-platform-main)
-An AI-integrated platform that allows users to track, visualize, and manage their finances intelligently with analytics and smart predictions.
+### 🔹 AI Finance Platform – Intelligent Financial Tracker  
+![AI Finance](https://github.com/maazansari/AIFinancePlatform/assets/your_image_hash_or_path_here)  
+An AI-integrated platform that allows users to track, visualize, and manage their finances intelligently with analytics and smart predictions.  
+[🔗 GitHub Repo](https://github.com/maazansari/AIFinancePlatform)
 
 ---
 
-### 🔹 [AI-Powered Vehicle Distance Estimation & Object Detection Using YOLOv5](https://github.com/AnsariTech-25667/AI-Powered-Vehicle-Distance-Estimation-Object-Detection-Using-YOLOv5-Deep-Learning)
-Uses YOLOv5 and deep learning to estimate distance between vehicles and detect objects in real-time to enhance safety and automation in smart mobility systems.
+### 🔹 YOLOv5 Vehicle Detection & Distance Estimation  
+![YOLO Project](https://github.com/maazansari/VehicleDetectionYOLO/assets/your_image_hash_or_path_here)  
+Uses YOLOv5 and deep learning to estimate distance between vehicles and detect objects in real-time.  
+[🔗 GitHub Repo](https://github.com/maazansari/VehicleDetectionYOLO)
 
 ---
 
-### 🔹 [A Three-Layer Privacy Preserving Cloud Storage](https://github.com/AnsariTech-25667/A-Three-Layer-Privacy-Preserving-Cloud-Storage)
-A secure cloud storage solution using Caesar Cipher encryption, FTP file uploads, and MySQL for data integrity. Ensures confidentiality and modular user authentication.
+### 🔹 Privacy Preserving Cloud Storage  
+![Secure Cloud Storage](https://github.com/maazansari/PrivacyPreservingStorage/assets/your_image_hash_or_path_here)  
+Caesar Cipher + FTP + MySQL-based 3-layer secure storage system.  
+[🔗 GitHub Repo](https://github.com/maazansari/PrivacyPreservingStorage)
 
 ---
 
-### 🔹 [Resume Parser with OpenAI Integration](https://github.com/AnsariTech-25667/resume-parser-project)
-A smart resume parser that extracts and structures candidate data using OpenAI's NLP capabilities. Ideal for recruiters and hiring platforms.
+### 🔹 Resume Parser with OpenAI  
+![Resume Parser](https://github.com/maazansari/ResumeParserAI/assets/your_image_hash_or_path_here)  
+An NLP-based smart resume parser powered by OpenAI.  
+[🔗 GitHub Repo](https://github.com/maazansari/ResumeParserAI)
 
 ---
 
-### 🔹 [Admin Dashboard & User App](https://github.com/AnsariTech-25667/admin-dashboard-app)
-A modern and responsive admin dashboard built using JavaScript frameworks, tailored for managing user data and metrics through an intuitive UI.
+### 🔹 Admin Dashboard & User App  
+![Dashboard](https://github.com/maazansari/AdminUserDashboard/assets/your_image_hash_or_path_here)  
+Responsive JS dashboard for managing data & metrics.  
+[🔗 GitHub Repo](https://github.com/maazansari/AdminUserDashboard)
 
 ---
 
-### 🔹 [HealTether 2 – Health Management App](https://github.com/AnsariTech-25667/HealTether_2_easy_codes)
-A simplified health management solution for tracking patient data and appointments. Designed to bridge healthcare services and patients through tech.
+### 🔹 HealTether 2 – Health Management App  
+![HealTether](https://github.com/maazansari/HealTether/assets/your_image_hash_or_path_here)  
+Simplified health record tracking & appointment management.  
+[🔗 GitHub Repo](https://github.com/maazansari/HealTether)
 
 ---
 
-### 🔹 [SecureTimeLock – Ethereum Smart Contract for Secure Fund Locking](https://github.com/AnsariTech-25667/SecureTimeLock-Ethereum-Smart-Contract)
-An Ethereum-based smart contract developed using Hardhat that locks funds securely until a preset condition is met. Focuses on decentralized trust and automation.
+### 🔹 SecureTimeLock – Ethereum Smart Contract  
+![SecureTimeLock](https://github.com/maazansari/SecureTimeLock/assets/your_image_hash_or_path_here)  
+Time-locked secure Ethereum-based fund management smart contract.  
+[🔗 GitHub Repo](https://github.com/maazansari/SecureTimeLock)
 
 ---
 
-### 🔹 [Multithreaded Web Crawler](https://github.com/AnsariTech-25667/Multithreaded-Web-Crawler)
-A web crawler built using multithreading for efficient and concurrent scraping of websites. Features custom HTML parsing and safe queuing mechanisms.
+### 🔹 Multithreaded Web Crawler  
+![Web Crawler](https://github.com/maazansari/WebCrawlerMultithreaded/assets/your_image_hash_or_path_here)  
+A multithreaded web crawler with custom HTML parsing.  
+[🔗 GitHub Repo](https://github.com/maazansari/WebCrawlerMultithreaded)
 
 ---
 
-### 🔹 [Vinsta – MERN Stack Social Media App](https://github.com/AnsariTech-25667/Vinsta--Social-media-app-using-MERN)
-A full-stack social media app built using the MERN stack. Includes features like real-time posts, authentication, profiles, and interactions.
+### 🔹 Vinsta – MERN Stack Social Media App  
+![Vinsta](https://github.com/maazansari/Vinsta/assets/your_image_hash_or_path_here)  
+Real-time MERN stack social media app with profiles and interactions.  
+[🔗 GitHub Repo](https://github.com/maazansari/Vinsta)
