@@ -1,93 +1,105 @@
-## Hey there, I'm Maaz Ansari
+# Hey there, I'm Maaz Ansari 👋
 
 📍 Pune, Maharashtra, India  
 📞 9511670380  
-📧 maaz.ansari211@vit.edu
+📧 maaz.ansari211@vit.edu  
+🔗 [GitHub](https://github.com/AnsariTech-25667) | [LinkedIn](https://www.linkedin.com/in/maaz-ansari-06193a231)
 
-🎓 I’m pursuing B.Tech in Electronics and Telecommunication at VIT Pune, graduating in 2025
-
-💻 A passionate software engineer with expertise in Full Stack Development (MERN), Blockchain, and Data Analytics
-
-🛠️ Proficient in C, C++, Python, SQL, JavaScript, HTML/CSS, Flask, JSP, REST APIs, and Smart Contract Development using Solidity & Hardhat
-
-📊 Experienced in Power BI, Tableau, Pandas, NumPy, and R for data visualization and analytics
-
-🔐 Built secure systems with JWT, RBAC, and multithreading — optimized APIs and boosted performance
-
-📚 Published: Precision Robotics Arm System (IJISAE - Scopus Indexed)
-
-💬 Ask me about Flutter, MERN, or Smart Contracts!
-
-🔗 [GitHub](https://github.com/maazansari) • [LinkedIn](https://www.linkedin.com/in/maazansari)
+🎓 **B.Tech in Electronics and Telecommunication**  
+Vishwakarma Institute of Technology, Pune (Graduating 2025)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### 🔹 SherSchedule – AI-Powered Smart Booking Platform  
-![SherSchedule](https://github.com/maazansari/SherSchedule/assets/your_image_hash_or_path_here)  
-A smart calendar and scheduling assistant powered by AI. Helps users automate bookings, manage availability, and streamline their schedules efficiently.  
-[🔗 GitHub Repo](https://github.com/maazansari/SherSchedule)
+A passionate and results-driven software engineer with hands-on experience in full-stack development, cloud computing, and data analytics. Proficient in designing, developing, and deploying robust software solutions using modern technologies. Proven ability to enhance system performance, optimize APIs, and collaborate efficiently within cross-functional teams. Seeking to apply my skills in a challenging software engineering role to contribute to the growth of the company.
 
 ---
 
-### 🔹 AI Finance Platform – Intelligent Financial Tracker  
-![AI Finance](https://github.com/maazansari/AIFinancePlatform/assets/your_image_hash_or_path_here)  
-An AI-integrated platform that allows users to track, visualize, and manage their finances intelligently with analytics and smart predictions.  
-[🔗 GitHub Repo](https://github.com/maazansari/AIFinancePlatform)
+## 🛠️ Technical Skills
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?style=flat-square&logo=ethereum)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha)
+![Chai](https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai)
 
 ---
 
-### 🔹 YOLOv5 Vehicle Detection & Distance Estimation  
-![YOLO Project](https://github.com/maazansari/VehicleDetectionYOLO/assets/your_image_hash_or_path_here)  
-Uses YOLOv5 and deep learning to estimate distance between vehicles and detect objects in real-time.  
-[🔗 GitHub Repo](https://github.com/maazansari/VehicleDetectionYOLO)
+## 📄 Certifications
+
+- **Google Data Analytics Professional Certificate (Coursera)**  
+  Proficient in SQL, R programming, data transformation, and visualization. Conducted case studies demonstrating data-driven strategies, increasing analysis efficiency by 40%.
 
 ---
 
-### 🔹 Privacy Preserving Cloud Storage  
-![Secure Cloud Storage](https://github.com/maazansari/PrivacyPreservingStorage/assets/your_image_hash_or_path_here)  
-Caesar Cipher + FTP + MySQL-based 3-layer secure storage system.  
-[🔗 GitHub Repo](https://github.com/maazansari/PrivacyPreservingStorage)
+## 📝 Publications
+
+- **Precision Robotics Arm System based on Computer Vision**  
+  Published in the International Journal of Intelligent Systems and Applications in Engineering (IJISAE) (Scopus Indexed). Engineered an intelligent robotic arm leveraging computer vision, boosting precision accuracy by 85%.
 
 ---
 
-### 🔹 Resume Parser with OpenAI  
-![Resume Parser](https://github.com/maazansari/ResumeParserAI/assets/your_image_hash_or_path_here)  
-An NLP-based smart resume parser powered by OpenAI.  
-[🔗 GitHub Repo](https://github.com/maazansari/ResumeParserAI)
+## 💼 Work Experience
+
+**Software Developer Intern – Softmaque Consulting**  
+*Chhatrapati Sambhajinagar, Maharashtra*  
+*Jan 2025 – May 2025*
+
+- Developed an automated JCB Cabin Inspection System with JavaScript, jQuery, AJAX, Bootstrap, and DataTables.
+- Optimized MySQL queries and RESTful APIs, cutting inspection time by 40%.
+- Utilized multithreading and asynchronous processing for efficiency.
+- Integrated Highcharts.js for real-time analytics, improving defect detection by 25%.
+- Secured the system with JWT authentication and RBAC for compliance.
 
 ---
 
-### 🔹 Admin Dashboard & User App  
-![Dashboard](https://github.com/maazansari/AdminUserDashboard/assets/your_image_hash_or_path_here)  
-Responsive JS dashboard for managing data & metrics.  
-[🔗 GitHub Repo](https://github.com/maazansari/AdminUserDashboard)
+## 🌟 Featured Projects
+
+### [SherSchedule – AI-Powered Smart Booking Platform](https://github.com/AnsariTech-25667/SherSchedule-AI-Powered-Smart-Booking-Platform-)
+A smart calendar and scheduling assistant powered by AI. Helps users automate bookings, manage availability, and streamline their schedules efficiently.
+
+![SherSchedule](https://your_image_url_here)
 
 ---
 
-### 🔹 HealTether 2 – Health Management App  
-![HealTether](https://github.com/maazansari/HealTether/assets/your_image_hash_or_path_here)  
-Simplified health record tracking & appointment management.  
-[🔗 GitHub Repo](https://github.com/maazansari/HealTether)
+### [AI Finance Platform – Intelligent Financial Tracker](https://github.com/AnsariTech-25667/ai-finance-platform-main)
+An AI-integrated platform that allows users to track, visualize, and manage their finances intelligently with analytics and smart predictions.
+
+![AI Finance Platform](https://your_image_url_here)
 
 ---
 
-### 🔹 SecureTimeLock – Ethereum Smart Contract  
-![SecureTimeLock](https://github.com/maazansari/SecureTimeLock/assets/your_image_hash_or_path_here)  
-Time-locked secure Ethereum-based fund management smart contract.  
-[🔗 GitHub Repo](https://github.com/maazansari/SecureTimeLock)
+### [AI-Powered Vehicle Distance Estimation & Object Detection Using YOLOv5](https://github.com/AnsariTech-25667/AI-Powered-Vehicle-Distance-Estimation-Object-Detection-Using-YOLOv5-Deep-Learning)
+Uses YOLOv5 and deep learning to estimate distance between vehicles and detect objects in real-time to enhance safety and automation in smart mobility systems.
+
+![Vehicle Distance Estimation](https://your_image_url_here)
 
 ---
 
-### 🔹 Multithreaded Web Crawler  
-![Web Crawler](https://github.com/maazansari/WebCrawlerMultithreaded/assets/your_image_hash_or_path_here)  
-A multithreaded web crawler with custom HTML parsing.  
-[🔗 GitHub Repo](https://github.com/maazansari/WebCrawlerMultithreaded)
+### [A Three-Layer Privacy Preserving Cloud Storage](https://github.com/AnsariTech-25667/A-Three-Layer-Privacy-Preserving-Cloud-Storage)
+A secure cloud storage solution using Caesar Cipher encryption, FTP file uploads, and MySQL for data integrity. Ensures confidentiality and modular user authentication.
 
----
-
-### 🔹 Vinsta – MERN Stack Social Media App  
-![Vinsta](https://github.com/maazansari/Vinsta/assets/your_image_hash_or_path_here)  
-Real-time MERN stack social media app with profiles and interactions.  
-[🔗 GitHub Repo](https://github.com/maazansari/Vinsta)
+![Cloud Storage](
+::contentReference[oaicite:0]{index=0}
+ 
