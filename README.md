@@ -30,7 +30,6 @@ A passionate and results-driven software engineer with hands-on experience in fu
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau)
@@ -49,14 +48,16 @@ A passionate and results-driven software engineer with hands-on experience in fu
 ## 📄 Certifications
 
 - **Google Data Analytics Professional Certificate (Coursera)**  
-  Proficient in SQL, R programming, data transformation, and visualization. Conducted case studies demonstrating data-driven strategies, increasing analysis efficiency by 40%.
+  Proficient in SQL, R programming, data transformation, and visualization. Conducted case studies demonstrating data-driven strategies, increasing analysis efficiency by 40%.  
+  📜 [Certificate Link](https://drive.google.com/file/d/1srkxphMm9UJ5NTRyB9HFvHkVBZzGHvSi/view)
 
 ---
 
 ## 📝 Publications
 
 - **Precision Robotics Arm System based on Computer Vision**  
-  Published in the International Journal of Intelligent Systems and Applications in Engineering (IJISAE) (Scopus Indexed). Engineered an intelligent robotic arm leveraging computer vision, boosting precision accuracy by 85%.
+  Published in the International Journal of Intelligent Systems and Applications in Engineering (IJISAE) (Scopus Indexed). Engineered an intelligent robotic arm leveraging computer vision, boosting precision accuracy by 85%.  
+  🔗 [Research Paper](https://ijisae.org/index.php/IJISAE/article/view/6136)
 
 ---
 
@@ -79,27 +80,51 @@ A passionate and results-driven software engineer with hands-on experience in fu
 ### [SherSchedule – AI-Powered Smart Booking Platform](https://github.com/AnsariTech-25667/SherSchedule-AI-Powered-Smart-Booking-Platform-)
 A smart calendar and scheduling assistant powered by AI. Helps users automate bookings, manage availability, and streamline their schedules efficiently.
 
-![SherSchedule](https://your_image_url_here)
-
 ---
 
 ### [AI Finance Platform – Intelligent Financial Tracker](https://github.com/AnsariTech-25667/ai-finance-platform-main)
 An AI-integrated platform that allows users to track, visualize, and manage their finances intelligently with analytics and smart predictions.
-
-![AI Finance Platform](https://your_image_url_here)
 
 ---
 
 ### [AI-Powered Vehicle Distance Estimation & Object Detection Using YOLOv5](https://github.com/AnsariTech-25667/AI-Powered-Vehicle-Distance-Estimation-Object-Detection-Using-YOLOv5-Deep-Learning)
 Uses YOLOv5 and deep learning to estimate distance between vehicles and detect objects in real-time to enhance safety and automation in smart mobility systems.
 
-![Vehicle Distance Estimation](https://your_image_url_here)
-
 ---
 
 ### [A Three-Layer Privacy Preserving Cloud Storage](https://github.com/AnsariTech-25667/A-Three-Layer-Privacy-Preserving-Cloud-Storage)
 A secure cloud storage solution using Caesar Cipher encryption, FTP file uploads, and MySQL for data integrity. Ensures confidentiality and modular user authentication.
 
-![Cloud Storage](
-::contentReference[oaicite:0]{index=0}
- 
+---
+
+### [Resume Parser with OpenAI Integration](https://github.com/AnsariTech-25667/resume-parser-project)
+Extracts and analyzes key resume data using OpenAI to evaluate candidate profiles intelligently.
+
+---
+
+### [Admin Dashboard & User App](https://github.com/AnsariTech-25667/admin-dashboard-app)
+A robust web-based admin panel and user interface for managing app users and data.
+
+---
+
+### [HealTether_2_easy_codes](https://github.com/AnsariTech-25667/HealTether_2_easy_codes)
+A healthcare-related code repository focused on simplifying digital patient care solutions.
+
+---
+
+### [SecureTimeLock – Ethereum Smart Contract](https://github.com/AnsariTech-25667/SecureTimeLock-Ethereum-Smart-Contract)
+Developed an Ethereum smart contract using Hardhat for secure fund locking, demonstrating advanced blockchain skills and decentralized logic.
+
+---
+
+### [Multithreaded Web Crawler](https://github.com/AnsariTech-25667/Multithreaded-Web-Crawler)
+A performance-optimized multithreaded web crawler capable of scraping and indexing data from large-scale websites.
+
+---
+
+### [Vinsta – Social Media App using MERN](https://github.com/AnsariTech-25667/Vinsta--Social-media-app-using-MERN)
+A complete MERN stack social media platform with real-time communication, user authentication, and interaction features.
+
+---
+
+📌 *Feel free to explore the repositories above. I'm always open to collaborations and new challenges!*
