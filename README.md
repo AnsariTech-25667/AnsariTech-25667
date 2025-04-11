@@ -1,102 +1,122 @@
-# 👋 Hi, I'm Maaz Ansari
-
-📍 Pune, Maharashtra, India &nbsp;&nbsp;&nbsp;✉️ maaz.ansari211@vit.edu  
-🌐 [GitHub](https://github.com/maazansari) • [LinkedIn](https://www.linkedin.com/in/maazansari)
-
----
-
-🎯 **About Me**  
-I’m a passionate and results-driven software engineer with hands-on experience in full-stack development, cloud computing, and data analytics. I enjoy designing, developing, and deploying scalable solutions that solve real-world problems. From intelligent AI platforms to privacy-focused cloud storage systems, I love working on projects that push boundaries and innovate.
+<h1 align="center">Hi, I'm Maaz Ansari 👋</h1>
+<p align="center">
+  📍 Pune, Maharashtra, India · 💼 <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> · 📧 maaz.ansari211@vit.edu · 💻 <a href="https://github.com/maazansari">GitHub</a>
+</p>
 
 ---
 
-🎓 **Education**  
-**Bachelor of Electronics and Telecommunications Engineering**  
-Vishwakarma Institute of Technology, Pune  
-📅 Expected May 2025 &nbsp;&nbsp;&nbsp;📊 CGPA: 7.5
+### 🚀 About Me
+
+A passionate and results-driven **Software Engineer** with hands-on experience in **Full-Stack Development**, **Cloud Computing**, and **Data Analytics**. I specialize in building robust, scalable solutions and thrive in collaborative environments that push technological boundaries.
 
 ---
 
-🛠️ **Technical Skills**
+### 🎓 Education
+
+**Bachelor of Engineering in Electronics and Telecommunications**  
+📍 Vishwakarma Institute of Technology, Pune  
+🗓️ Expected Graduation: May 2025  
+📊 CGPA: 7.5
+
+---
+
+### 🛠️ Technical Skills
 
 - **Languages:** C, C++, Python, SQL, JavaScript  
-- **Full Stack:** MERN (MongoDB, Express.js, React.js, Node.js), JSP, Flask, REST APIs  
-- **Web & Mobile:** HTML, CSS, Bootstrap, Tailwind CSS  
-- **Cloud & Blockchain:** Hardhat, Solidity, Mocha, Chai, Web3.js  
-- **Data Analytics:** Pandas, NumPy, R Programming, Power BI, Tableau  
-- **Tools & Platforms:** Git/GitHub, JDK, Postman, FTP, Open Library API  
+- **Web & Full-Stack:** MERN (MongoDB, Express, React, Node), Flask, JSP, REST APIs  
+- **Mobile & UI:** HTML, CSS, Bootstrap, Tailwind CSS  
+- **Data Analytics:** Power BI, Tableau, R, Pandas, NumPy  
+- **Tools & Platforms:** Git/GitHub, Postman, JDK, Hardhat, Mocha, Chai, Open Library API  
 
 ---
 
-📜 **Certifications**
+### 🧠 Certifications
 
-- **Google Data Analytics Professional Certificate (Coursera)**  
-  Gained expertise in SQL, R, data wrangling, and visualization  
-  📈 Improved data-driven decision making by 40% through case studies
-
----
-
-📚 **Publications**
-
-- **Precision Robotics Arm System based on Computer Vision**  
-  Published in *IJISAE (Scopus Indexed)*  
-  🔬 Boosted robotic precision by 85% using AI and image processing  
-  [Read Paper](#)
+📜 **Google Data Analytics Professional Certificate** – Coursera  
+> Proficient in SQL, R programming, data transformation & visualization.  
+> Implemented data-driven case studies boosting analysis efficiency by 40%.  
+[🔗 Certificate Link](https://coursera.org/share/your-certificate-link)
 
 ---
 
-💼 **Experience**
+### 📚 Publication
 
-**Software Developer Intern — Softmaque Consulting**  
-📍 Chhatrapati Sambhajinagar, Maharashtra  
-🗓️ Jan 2025 – May 2025  
-- Built JCB Cabin Inspection System using JavaScript, jQuery, AJAX, and Bootstrap  
-- Enhanced performance by 40% via optimized MySQL and REST APIs  
-- Real-time analytics with Highcharts.js; implemented JWT + RBAC security  
+📰 **Precision Robotics Arm System based on Computer Vision**  
+Published in *IJISAE* (Scopus Indexed)  
+> Engineered an intelligent robotic arm using computer vision, increasing precision accuracy by **85%**.  
+[🔗 Paper Link](https://your-paper-link.com)
 
 ---
 
-🚀 **Highlighted Projects**
+### 👨‍💻 Experience
 
-### 🔐 [SecureTimeLock](https://github.com/AnsariTech-25667/SecureTimeLock)  
-**Ethereum Smart Contract for Secure Fund Locking**  
-Solidity · Hardhat · Mocha · Chai · Ethereum  
-- Time-based smart contract to lock funds securely  
-- Automated deployment scripts and event-driven validation
-
----
-
-### 📱 [Vinsta](https://github.com/AnsariTech-25667/Vinsta--Social-media-app-using-MERN)  
-**MERN Stack Social Media Platform**  
-MongoDB · Express.js · React · Node.js · Cloudinary  
-- Full-featured social app with authentication, posting, comments, and real-time updates  
+**Software Developer Intern – Softmaque Consulting**  
+🗓️ Jan 2025 – May 2025 | 📍 Chhatrapati Sambhajinagar, Maharashtra  
+- Developed an automated JCB Cabin Inspection System using **JavaScript**, **AJAX**, **DataTables**, and **Bootstrap**  
+- Optimized **MySQL queries** and **RESTful APIs** reducing inspection time by **40%**  
+- Used multithreading & async processing for high performance  
+- Integrated **Highcharts.js** for real-time analytics and JWT + RBAC for secure access control
 
 ---
 
-### ☁️ [Three-Layer Privacy-Preserving Cloud Storage](https://github.com/AnsariTech-25667/3-layer-privacy-cloud-storage)  
-Java · JSP · MySQL · Caesar Cipher · FTP  
-- Secure file storage system with encryption, segmentation & user authentication  
+### 🚧 Projects
+
+#### 🔹 [AI Finance Manager: Intelligent Financial Tracking & Analysis](https://github.com/AnsariTech-25667/ai-finance-platform-main)
+> AI-powered platform to automate personal finance tracking and analysis.  
+> 🧠 GPT-powered summaries, 📸 OCR scanning, 🔔 real-time alerts  
+> Tech Stack: Next.js, React, Tailwind CSS, Node.js, Express, MongoDB, Prisma  
+<img src="https://your-image-link-here.com/finance-manager.png" alt="AI Finance Manager" width="600"/>
 
 ---
 
-### 🤖 [AI Finance Manager](https://github.com/AnsariTech-25667/ai-finance-platform-main)  
-Next.js · React · Node.js · MongoDB · OCR · GPT  
-- AI-powered platform for smart personal finance with receipt OCR, GPT insights, and real-time budget alerts  
+#### 🔹 [YOLOv5 Vehicle Distance Estimation](#)
+> Real-time vehicle object detection using YOLOv5, OpenCV, and PyTorch  
+> Trained on KITTI & FLIR datasets for adverse condition detection  
+> Edge deployable for traffic surveillance and smart vehicles  
+> Tech Stack: Python, OpenCV, PyTorch, YOLOv5  
+<img src="https://your-image-link-here.com/yolo-car.png" alt="Vehicle Detection" width="600"/>
 
 ---
 
-### 📷 [AI-Powered Vehicle Distance Estimation](#)  
-YOLOv5 · PyTorch · OpenCV · KITTI Dataset  
-- Real-time object detection and distance estimation using deep learning  
+#### 🔹 [SherSchedule – Smart Booking Platform](https://github.com/AnsariTech-25667/SherSchedule-AI-Powered-Smart-Booking-Platform-)
+> Smart scheduling app with Google Calendar sync and Clerk auth  
+> Responsive UI, custom event pages, notifications  
+> Tech Stack: Next.js, Tailwind CSS, Neon DB, Clerk  
+<img src="https://your-image-link-here.com/sher-schedule.png" alt="Sher Schedule App" width="600"/>
 
 ---
 
-### 📅 [SherSchedule - Smart Booking Platform](https://github.com/AnsariTech-25667/SherSchedule-AI-Powered-Smart-Booking-Platform)  
-Next.js · Tailwind CSS · Clerk · Google Calendar API · Neon DB  
-- AI-enabled, full-stack scheduling system with secure sign-in and event pages  
+#### 🔹 [SecureTimeLock: Ethereum Smart Contract](#)
+> Time-based Ethereum fund locking smart contract  
+> Built using Solidity, Hardhat, Mocha, and Chai  
+> Secure, scalable, and automation-ready  
+<img src="https://your-image-link-here.com/securetimelock.png" alt="SecureTimeLock" width="600"/>
 
 ---
 
-📈 **Let's Connect**  
-If you're building something exciting or looking for someone passionate about tech, feel free to connect!
+#### 🔹 [Three-Layer Privacy Preserving Cloud Storage](#)
+> Cloud solution with Caesar Cipher encryption, FTP transfers & MySQL  
+> Encrypted file segmentation + integrity checks  
+> Tech Stack: Java, JSP, MySQL, FTP  
+<img src="https://your-image-link-here.com/cloud-storage.png" alt="Cloud Storage System" width="600"/>
+
+---
+
+#### 🔹 [Vinsta – MERN Social Media App](#)
+> Full-featured platform with posts, likes, comments, follows  
+> Media upload via Cloudinary, scalable and real-time ready  
+> Tech Stack: MongoDB, Express, React, Node.js  
+<img src="https://your-image-link-here.com/vinsta.png" alt="Vinsta App" width="600"/>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 💻 [GitHub](https://github.com/maazansari)
+- 📧 Email: maaz.ansari211@vit.edu
+
+---
+
+⭐ *If you like my work, consider giving a star to the repositories and connecting on LinkedIn!*
 
