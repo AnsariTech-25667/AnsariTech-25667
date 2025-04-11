@@ -1,128 +1,59 @@
-<h1 align="center">Hi, I'm Maaz Ansari 👋</h1>
-<p align="center">
-  💻 Full Stack Developer | 📊 Data Enthusiast | 🌐 Cloud & Blockchain Explorer  
-  📍 Pune, India | 📧 maaz.ansari211@vit.edu | 🌍 <a href="https://github.com/maazansari">GitHub</a> | 🔗 <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a>
-</p>
+
+
+# 👋 Maaz Ansari
+
+**Electronics and Telecommunications Undergraduate at VIT Pune**  
+🔧 Full Stack Developer | 🧠 AI & Blockchain Enthusiast | 🌐 Open Source Contributor  
+📫 [LinkedIn](https://www.linkedin.com/in/maaz-ansari-06193a231) | 📂 [GitHub](https://github.com/AnsariTech-25667)
 
 ---
 
-### 🚀 About Me
+## 🚀 Featured Projects
 
-I'm a passionate **Electronics and Telecommunication Engineering** student at **VIT Pune**, with a deep interest in **Full Stack Development**, **AI/ML**, **Blockchain**, and **Cloud Technologies**. I love building scalable applications that solve real-world problems.
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** C, C++, Python, JavaScript, SQL  
-- **Frontend:** React.js, Tailwind CSS, Bootstrap, HTML5, CSS3  
-- **Backend:** Node.js, Express.js, Flask, JSP, REST APIs  
-- **Mobile:** Flutter, React Native  
-- **Database:** MySQL, MongoDB, Firebase  
-- **Tools:** Git/GitHub, Postman, Heroku, Hardhat, Solidity  
-- **Data:** Power BI, Tableau, Pandas, NumPy
+### 🔹 [SherSchedule – AI-Powered Smart Booking Platform](https://github.com/AnsariTech-25667/SherSchedule-AI-Powered-Smart-Booking-Platform-)
+A smart calendar and scheduling assistant powered by AI. Helps users automate bookings, manage availability, and streamline their schedules efficiently.
 
 ---
 
-### 💼 Notable Projects
-
-#### 🔹 [SherSchedule – AI-Powered Smart Booking Platform](https://github.com/maazansari/SherSchedule-AI-Powered-Smart-Booking-Platform-)
-> Schedule smarter with AI! Enables personalized event booking with Google Calendar integration, smart reminders, and a sleek UI.  
-> 🛠️ *Next.js · Clerk · Neon DB · Tailwind CSS*  
-<img src="https://your-image-link.com/sher.png" alt="SherSchedule Screenshot" width="600"/>
+### 🔹 [AI Finance Platform – Intelligent Financial Tracker](https://github.com/AnsariTech-25667/ai-finance-platform-main)
+An AI-integrated platform that allows users to track, visualize, and manage their finances intelligently with analytics and smart predictions.
 
 ---
 
-#### 🔹 [AI Finance Platform – Intelligent Financial Tracker](https://github.com/maazansari/ai-finance-platform-main)
-> An AI-driven personal finance dashboard with OCR receipt scanning, budget categorization, and financial insights using GPT prompts.  
-> 🛠️ *React · Node.js · Prisma · MongoDB · Tailwind CSS*  
-<img src="https://your-image-link.com/finance.png" alt="AI Finance Screenshot" width="600"/>
+### 🔹 [AI-Powered Vehicle Distance Estimation & Object Detection Using YOLOv5](https://github.com/AnsariTech-25667/AI-Powered-Vehicle-Distance-Estimation-Object-Detection-Using-YOLOv5-Deep-Learning)
+Uses YOLOv5 and deep learning to estimate distance between vehicles and detect objects in real-time to enhance safety and automation in smart mobility systems.
 
 ---
 
-#### 🔹 [SafeBite – Food Allergen Scanner App](https://github.com/maazansari/Safe-Bite_Food-Allergen-Scanner-Application.)
-> Scan ingredients & detect allergens instantly with ML-based predictions for food safety. Ideal for allergy-prone users.  
-> 🛠️ *React Native · TensorFlow.js · Expo*  
-<img src="https://your-image-link.com/safebite.png" alt="SafeBite Screenshot" width="600"/>
+### 🔹 [A Three-Layer Privacy Preserving Cloud Storage](https://github.com/AnsariTech-25667/A-Three-Layer-Privacy-Preserving-Cloud-Storage)
+A secure cloud storage solution using Caesar Cipher encryption, FTP file uploads, and MySQL for data integrity. Ensures confidentiality and modular user authentication.
 
 ---
 
-#### 🔹 [Vehicle Distance Estimation with YOLOv5](https://github.com/maazansari/AI-Powered-Vehicle-Distance-Estimation-Object-Detection-Using-YOLOv5-Deep-Learning)
-> Real-time object detection and distance estimation for autonomous vehicles using YOLOv5.  
-> 🛠️ *Python · OpenCV · PyTorch · YOLOv5*  
-<img src="https://your-image-link.com/yolo.png" alt="YOLO Project Screenshot" width="600"/>
+### 🔹 [Resume Parser with OpenAI Integration](https://github.com/AnsariTech-25667/resume-parser-project)
+A smart resume parser that extracts and structures candidate data using OpenAI's NLP capabilities. Ideal for recruiters and hiring platforms.
 
 ---
 
-#### 🔹 [SecureTimeLock – Ethereum Smart Contract](https://github.com/maazansari/SecureTimeLock-Ethereum-Smart-Contract)
-> Secure time-locked Ethereum fund transfer system built with Solidity and Hardhat.  
-> 🛠️ *Solidity · Hardhat · Mocha · Chai*  
-<img src="https://your-image-link.com/lock.png" alt="SecureTimeLock Screenshot" width="600"/>
+### 🔹 [Admin Dashboard & User App](https://github.com/AnsariTech-25667/admin-dashboard-app)
+A modern and responsive admin dashboard built using JavaScript frameworks, tailored for managing user data and metrics through an intuitive UI.
 
 ---
 
-#### 🔹 [Three-Layer Privacy-Preserving Cloud Storage](https://github.com/maazansari/A-Three-Layer-Privacy-Preserving-Cloud-Storage)
-> Built a secure cloud storage with Caesar Cipher encryption, FTP handling, and MySQL-backed storage.  
-> 🛠️ *Java · JSP · FTP · MySQL*  
-<img src="https://your-image-link.com/cloud.png" alt="Cloud Storage Screenshot" width="600"/>
+### 🔹 [HealTether 2 – Health Management App](https://github.com/AnsariTech-25667/HealTether_2_easy_codes)
+A simplified health management solution for tracking patient data and appointments. Designed to bridge healthcare services and patients through tech.
 
 ---
 
-#### 🔹 [Multithreaded Web Crawler](https://github.com/maazansari/Multithreaded-Web-Crawler)
-> Efficient crawler using multithreading and custom HTML parsers for rapid web indexing.  
-> 🛠️ *Python · Threading · Requests · BeautifulSoup*  
-<img src="https://your-image-link.com/crawler.png" alt="Web Crawler Screenshot" width="600"/>
+### 🔹 [SecureTimeLock – Ethereum Smart Contract for Secure Fund Locking](https://github.com/AnsariTech-25667/SecureTimeLock-Ethereum-Smart-Contract)
+An Ethereum-based smart contract developed using Hardhat that locks funds securely until a preset condition is met. Focuses on decentralized trust and automation.
 
 ---
 
-#### 🔹 [Vinsta – MERN Stack Social Media App](https://github.com/maazansari/Vinsta--Social-media-app-using-MERN)
-> A full-fledged social media platform with posts, likes, comments, and follow systems.  
-> 🛠️ *MongoDB · Express.js · React.js · Node.js*  
-<img src="https://your-image-link.com/vinsta.png" alt="Vinsta Screenshot" width="600"/>
+### 🔹 [Multithreaded Web Crawler](https://github.com/AnsariTech-25667/Multithreaded-Web-Crawler)
+A web crawler built using multithreading for efficient and concurrent scraping of websites. Features custom HTML parsing and safe queuing mechanisms.
 
 ---
 
-#### 🔹 [Admin Dashboard App](https://github.com/maazansari/admin-dashboard-app)
-> A customizable admin dashboard interface with analytics and management modules.  
-> 🛠️ *React · Chart.js · Bootstrap*  
-<img src="https://your-image-link.com/dashboard.png" alt="Admin Dashboard Screenshot" width="600"/>
-
----
-
-#### 🔹 [Resume Parser Project](https://github.com/maazansari/resume-parser-project)
-> Automates resume parsing and keyword extraction using NLP techniques.  
-> 🛠️ *Python · spaCy · Flask*  
-<img src="https://your-image-link.com/resume-parser.png" alt="Resume Parser Screenshot" width="600"/>
-
----
-
-#### 🔹 [HealTether Health Monitoring App](https://github.com/maazansari/HealTether_2_easy_codes)
-> Tracks patient vitals and alerts doctors using a simplified healthcare monitoring system.  
-> 🛠️ *Flutter · Firebase*  
-<img src="https://your-image-link.com/healtether.png" alt="HealTether Screenshot" width="600"/>
-
----
-
-#### 🔹 [ScaleX Media Assignment – Frontend App](https://github.com/maazansari/ScaleX_Media_Assignment_project)
-> A responsive UI built for the ScaleX frontend developer task.  
-> 🛠️ *HTML · CSS · JavaScript*  
-<img src="https://your-image-link.com/scalex.png" alt="ScaleX Project Screenshot" width="600"/>
-
----
-
-### 📄 Resume
-
-[📥 Download My Resume](https://github.com/maazansari/My_Resume)  
-> Full details of education, experience, certifications, and projects
-
----
-
-### 🌐 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 💻 [GitHub](https://github.com/maazansari)
-- ✉️ maaz.ansari211@vit.edu
-
----
-
-⭐ *If you found my work helpful, please give it a ⭐ and consider following!*
+### 🔹 [Vinsta – MERN Stack Social Media App](https://github.com/AnsariTech-25667/Vinsta--Social-media-app-using-MERN)
+A full-stack social media app built using the MERN stack. Includes features like real-time posts, authentication, profiles, and interactions.
