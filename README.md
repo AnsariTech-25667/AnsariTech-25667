@@ -6,7 +6,7 @@
 🔗 [GitHub](https://github.com/AnsariTech-25667) | [LinkedIn](https://www.linkedin.com/in/maaz-ansari-06193a231)
 
 🎓 **B.Tech in Electronics and Telecommunication**  
-Vishwakarma Institute of Technology, Pune (Graduating 2025)
+Vishwakarma Institute of Technology, Pune (Graduated 2025)
 
 ---
 
